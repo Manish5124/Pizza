@@ -1,2 +1,2 @@
-# Pizzza
+# Pizza
 It is a website
